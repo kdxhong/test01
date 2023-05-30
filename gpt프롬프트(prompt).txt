@@ -1,3 +1,9 @@
+https://teamsparta.notion.site/chatGPT-10-51e68f4c499941bfa246c477011a3e64
+[스파르타 코딩클럽] chatGPT로 10분만에 웹사이트 만들기
+
+⇒ 부트스트랩이란? : https://getbootstrap.com/docs/5.2/components/buttons/
+
+
 <!doctype html>
 <html lang="en">
 
